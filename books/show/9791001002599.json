@@ -1,0 +1,39 @@
+{
+    "data": {
+        "isbn": "9791001002599",
+        "title": "Borrowed Librarys",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Milo Everleigh",
+                "role": "author"
+            }
+        ],
+        "publisher": "Northgate Books",
+        "published": "2022-08-20",
+        "pages": 578,
+        "subjects": [
+            "Nature",
+            "Cookery",
+            "Gardening"
+        ],
+        "description_html": "<p>Every drawn quiet of until suitcase of kept a kindnesses who suitcase. Full stranger the until kindnesses pressed shelf summer that that a.</p><p>Shelf quiet arrived shelf kindnesses stranger stranger every that full of had drawn recipes. Flowers one quiet questions had small had river with. Questions the them suitcase flowers with and drawn remembered arrived. The of and had with changed everything until summer with them recipes a small of quiet.</p><p><img src=\"x\" onerror=\"alert(1)\">Signed copies available.</p><script>alert(\"feed\")</script>",
+        "cover": "images/covers/9791001002599.png",
+        "formats": [
+            {
+                "sku": "9791001002599-HB",
+                "binding": "Hardback",
+                "price": "25.93",
+                "stock": 4
+            },
+            {
+                "sku": "9791001002599-PB",
+                "binding": "Paperback",
+                "price": "17.93",
+                "stock": 4
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

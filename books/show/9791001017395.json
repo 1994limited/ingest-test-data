@@ -1,0 +1,38 @@
+{
+    "data": {
+        "isbn": "9791001017395",
+        "title": "Salt Archives",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Nell Everleigh",
+                "role": "author"
+            }
+        ],
+        "publisher": "Marlow & Finch",
+        "published": "2025-06-03",
+        "pages": 338,
+        "subjects": [
+            "Cookery",
+            "Gardening"
+        ],
+        "description_html": "<p>Everything quiet one maps until summer secret across one across them. That of every arrived that recipes slowly pressed remembered carried. Of and stranger arrived old letters letters who shelf where.</p><p>That one changed quiet secret questions small remembered the secret letters secret house old summer. And one quiet full full stranger until full full stranger. Letters old who had and nobody kindnesses shelf. Full small with everything remembered until arrived town small one and.</p><p>Small carried the river every slowly river arrived stranger arrived house kept them. Across of full old that every a quiet where nobody suitcase one.</p>",
+        "cover": "images/covers/9791001017395.png",
+        "formats": [
+            {
+                "sku": "9791001017395-HB",
+                "binding": "Hardback",
+                "price": "17.95",
+                "stock": 30
+            },
+            {
+                "sku": "9791001017395-PB",
+                "binding": "Paperback",
+                "price": "9.95",
+                "stock": 43
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="9791001008881" status="live">
+  <isbn>9791001008881</isbn>
+  <title>A Tide for Fern</title>
+  <subtitle>Kindnesses who town remembered</subtitle>
+  <contributors>
+    <contributor role="author">Fern Quill</contributor>
+    <contributor role="illustrator">Ivo Calloway</contributor>
+  </contributors>
+  <publisher>Copperleaf</publisher>
+  <published>2021-12-17</published>
+  <pages>267</pages>
+  <subjects>
+    <subject>Travel</subject>
+  </subjects>
+  <description><![CDATA[<p>Them arrived had a who until of slowly that the arrived secret house and river that. Quiet stranger quiet small questions and remembered every and who. Old flowers slowly quiet of house suitcase letters pressed house old a old. Remembered who full letters maps a across small the every every town everything where summer recipes.</p><p>Suitcase secret summer who and summer nobody where of with shelf across old the. Carried who full with remembered quiet every everything a and with shelf nobody who of. Secret letters stranger and and questions that arrived across a with a them kept that. Stranger river them with a stranger with every shelf.</p><p>Kept questions old house them where where that. Where every recipes that changed of carried one who recipes. River flowers quiet quiet old and full until of.</p>]]></description>
+  <cover>images/covers/9791001008881.png</cover>
+  <formats>
+    <format sku="9791001008881-HB"><binding>Hardback</binding><price currency="GBP">30.06</price><stock>20</stock></format>
+    <format sku="9791001008881-PB"><binding>Paperback</binding><price currency="GBP">22.06</price><stock>102</stock></format>
+  </formats>
+  <updated>2026-10-01T09:00:00+00:00</updated>
+</book>

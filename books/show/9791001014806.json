@@ -1,0 +1,43 @@
+{
+    "data": {
+        "isbn": "9791001014806",
+        "title": "A Station for Sol",
+        "subtitle": "With suitcase until and",
+        "contributors": [
+            {
+                "name": "Ivo Pennywhistle",
+                "role": "author"
+            }
+        ],
+        "publisher": "Marlow & Finch",
+        "published": "2018-04-23",
+        "pages": 260,
+        "subjects": [
+            "Biography"
+        ],
+        "description_html": "<p>Questions shelf pressed every house arrived drawn a with. Full a flowers drawn a letters and questions of nobody a questions. Of drawn kindnesses summer every and with had pressed where kept house remembered.</p><p>Everything every changed that a slowly a full of drawn that letters maps. And across across recipes pressed secret everything everything a changed.</p><p>Flowers and them that summer kindnesses until flowers had where. Carried questions a one the stranger quiet kindnesses a remembered flowers remembered where flowers had full. Everything nobody recipes full the changed a quiet them kept full remembered and old.</p><p>One quiet flowers pressed that where until with old. That across where letters secret questions secret maps flowers flowers arrived.</p>",
+        "cover": "images/covers/9791001014806.png",
+        "formats": [
+            {
+                "sku": "9791001014806-HB",
+                "binding": "Hardback",
+                "price": "32.22",
+                "stock": 4
+            },
+            {
+                "sku": "9791001014806-PB",
+                "binding": "Paperback",
+                "price": "24.22",
+                "stock": 78
+            },
+            {
+                "sku": "9791001014806-EB",
+                "binding": "Ebook",
+                "price": "21.22",
+                "stock": null
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "evt_4bcbba5f0e47",
+    "name": "An evening with Eli Underhill",
+    "summary": "Had stranger kept of carried maps everything drawn flowers that of nobody of letters.",
+    "starts_at": "2026-12-25T17:30:00+00:00",
+    "ends_at": "2026-12-25T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v1",
+        "name": "Dog-ear Books, Lewes",
+        "city": "Lewes"
+    },
+    "tickets": {
+        "price": "0.00",
+        "available": 38
+    },
+    "status": "on_sale"
+}

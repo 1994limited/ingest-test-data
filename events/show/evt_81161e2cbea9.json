@@ -1,0 +1,18 @@
+{
+    "id": "evt_81161e2cbea9",
+    "name": "An evening with Pip Dunmore",
+    "summary": "Letters questions questions everything kindnesses who where everything letters across the drawn arrived everything.",
+    "starts_at": "2026-10-26T17:30:00+00:00",
+    "ends_at": "2026-10-26T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v2",
+        "name": "The Corn Exchange",
+        "city": "Brighton"
+    },
+    "tickets": {
+        "price": "15.00",
+        "available": 64
+    },
+    "status": "on_sale"
+}

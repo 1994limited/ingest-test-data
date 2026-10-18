@@ -1,0 +1,18 @@
+{
+    "id": "evt_580a976c69b5",
+    "name": "An evening with Eli Underhill",
+    "summary": "The secret and maps pressed where everything remembered remembered nobody drawn with remembered summer.",
+    "starts_at": "2026-12-13T17:30:00+00:00",
+    "ends_at": "2026-12-13T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v3",
+        "name": "Town Hall Library",
+        "city": "Hastings"
+    },
+    "tickets": {
+        "price": "0.00",
+        "available": 15
+    },
+    "status": "on_sale"
+}

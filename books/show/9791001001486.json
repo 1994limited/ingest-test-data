@@ -1,0 +1,39 @@
+{
+    "data": {
+        "isbn": "9791001001486",
+        "title": "The Last Lantern",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Cal Kettering",
+                "role": "author"
+            }
+        ],
+        "publisher": "Hollowtree Press",
+        "published": "2019-07-23",
+        "pages": 509,
+        "subjects": [
+            "Travel",
+            "Science",
+            "Gardening"
+        ],
+        "description_html": "<p>Stranger everything and shelf remembered slowly until of across. That who old changed and house flowers a every river flowers town.</p><p>Them of across a until and and carried had kindnesses full of river and a a. Suitcase that old a stranger slowly one and and of nobody and of with arrived.</p><p>Quiet suitcase a stranger kindnesses of every them shelf every recipes. Across kept shelf slowly town drawn a one where summer house flowers a.</p>",
+        "cover": "images/covers/9791001001486.png",
+        "formats": [
+            {
+                "sku": "9791001001486-HB",
+                "binding": "Hardback",
+                "price": "32.64",
+                "stock": 30
+            },
+            {
+                "sku": "9791001001486-PB",
+                "binding": "Paperback",
+                "price": "24.64",
+                "stock": 38
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

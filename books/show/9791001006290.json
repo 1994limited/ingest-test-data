@@ -1,0 +1,39 @@
+{
+    "data": {
+        "isbn": "9791001006290",
+        "title": "The Last Harbour",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "June Ashdown",
+                "role": "author"
+            }
+        ],
+        "publisher": "Copperleaf",
+        "published": "2018-06-23",
+        "pages": 288,
+        "subjects": [
+            "Cookery",
+            "Science",
+            "Gardening"
+        ],
+        "description_html": "<p>Pressed kept arrived and until house summer questions a until suitcase flowers house where a. River pressed a where across them every small who the across kept stranger remembered quiet. Maps maps across quiet questions had drawn stranger secret remembered kindnesses with everything summer a of.</p><p>Across who where shelf and remembered a questions the letters small. Secret summer remembered flowers pressed recipes carried drawn across them full old carried and one. Old letters slowly remembered nobody across suitcase of flowers one slowly pressed every suitcase until every. Town old remembered a of arrived recipes kindnesses had with shelf.</p>",
+        "cover": "images/covers/9791001006290.png",
+        "formats": [
+            {
+                "sku": "9791001006290-HB",
+                "binding": "Hardback",
+                "price": "29.74",
+                "stock": 36
+            },
+            {
+                "sku": "9791001006290-PB",
+                "binding": "Paperback",
+                "price": "21.74",
+                "stock": 68
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

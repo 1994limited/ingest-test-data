@@ -1,0 +1,45 @@
+{
+    "data": {
+        "isbn": "9791001013328",
+        "title": "An Orchard for Lola",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Cal Quill",
+                "role": "author"
+            }
+        ],
+        "publisher": "Hollowtree Press",
+        "published": "2020-07-09",
+        "pages": 624,
+        "subjects": [
+            "Crime",
+            "Cookery",
+            "Travel"
+        ],
+        "description_html": "<p>Arrived who a summer arrived across across kept a questions. Carried them full stranger had letters nobody until.</p><p>Where with flowers a changed kindnesses until across that everything maps with suitcase slowly. Nobody nobody the remembered recipes a secret arrived suitcase secret full. And maps letters small letters arrived quiet carried arrived remembered arrived arrived.</p><p>Quiet kept with changed house that had them everything every slowly a every across carried. The changed a a nobody small pressed kindnesses arrived suitcase. River a maps carried that and maps carried remembered recipes summer with. Of shelf pressed shelf across a pressed with kindnesses everything suitcase kindnesses summer.</p>",
+        "cover": "images/covers/9791001013328.png",
+        "formats": [
+            {
+                "sku": "9791001013328-HB",
+                "binding": "Hardback",
+                "price": "17.86",
+                "stock": 38
+            },
+            {
+                "sku": "9791001013328-PB",
+                "binding": "Paperback",
+                "price": "9.86",
+                "stock": 13
+            },
+            {
+                "sku": "9791001013328-EB",
+                "binding": "Ebook",
+                "price": "6.86",
+                "stock": null
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="9791001021835" status="live">
+  <isbn>9791001021835</isbn>
+  <title>The Golden Orchard</title>
+  <contributors>
+    <contributor role="author">Ivo Ingram</contributor>
+  </contributors>
+  <publisher>Pebble Lane</publisher>
+  <published>2019-12-25</published>
+  <pages>251</pages>
+  <subjects>
+    <subject>Fiction</subject>
+    <subject>Nature</subject>
+  </subjects>
+  <description><![CDATA[<p>Summer maps carried town flowers slowly pressed arrived everything. Pressed and kept where across everything changed maps secret of shelf.</p><p>And pressed small kindnesses every river remembered drawn changed pressed small where small river. Town maps everything every stranger until river secret quiet every who until full a kindnesses.</p>]]></description>
+  <cover>images/covers/9791001021835.png</cover>
+  <formats>
+    <format sku="9791001021835-HB"><binding>Hardback</binding><price currency="GBP">30.74</price><stock>9</stock></format>
+    <format sku="9791001021835-PB"><binding>Paperback</binding><price currency="GBP">22.74</price><stock>10</stock></format>
+  </formats>
+  <updated>2026-10-01T09:00:00+00:00</updated>
+</book>

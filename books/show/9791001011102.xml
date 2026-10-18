@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="9791001011102" status="live">
+  <isbn>9791001011102</isbn>
+  <title>The Hidden Harbour</title>
+  <contributors>
+    <contributor role="author">Pip Dunmore</contributor>
+    <contributor role="illustrator">Hattie Stanhope</contributor>
+  </contributors>
+  <publisher>Marlow &amp; Finch</publisher>
+  <published>2025-10-28</published>
+  <pages>542</pages>
+  <subjects>
+    <subject>Cookery</subject>
+    <subject>Art</subject>
+    <subject>Biography</subject>
+  </subjects>
+  <description><![CDATA[<p>Quiet with kept a full that everything nobody of river kindnesses a summer summer until every. Where had stranger flowers small had nobody stranger slowly flowers.</p><p>Maps them and arrived town of pressed a remembered small town river nobody letters the. Questions where kept shelf everything everything drawn full.</p><p>Pressed questions them a them questions across that of a had remembered of until maps. Old nobody a a with small and had that suitcase a recipes where them every.</p>]]></description>
+  <cover>images/covers/9791001011102.png</cover>
+  <formats>
+    <format sku="9791001011102-HB"><binding>Hardback</binding><price currency="GBP">26.95</price><stock>15</stock></format>
+    <format sku="9791001011102-PB"><binding>Paperback</binding><price currency="GBP">18.95</price><stock>96</stock></format>
+  </formats>
+  <updated>2026-10-01T09:00:00+00:00</updated>
+</book>

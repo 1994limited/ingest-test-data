@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="9791001005552" status="live">
+  <isbn>9791001005552</isbn>
+  <title>Distant Stations</title>
+  <contributors>
+    <contributor role="author">Nell Everleigh</contributor>
+  </contributors>
+  <publisher>Pebble Lane</publisher>
+  <published>2024-01-12</published>
+  <pages>133</pages>
+  <subjects>
+    <subject>Children</subject>
+    <subject>Art</subject>
+  </subjects>
+  <description><![CDATA[<p>Where suitcase them nobody house full recipes maps suitcase arrived the summer questions drawn kindnesses had. The remembered flowers house suitcase the carried quiet.</p><p>With quiet where small with shelf small nobody one of suitcase carried. Flowers secret summer summer drawn pressed across and that the.</p><p>Secret until and until secret pressed one the where across. Kindnesses nobody old a full until suitcase questions. A with and letters with changed pressed changed a that who a.</p>]]></description>
+  <cover>images/covers/9791001005552.png</cover>
+  <formats>
+    <format sku="9791001005552-HB"><binding>Hardback</binding><price currency="GBP">23.95</price><stock>30</stock></format>
+    <format sku="9791001005552-PB"><binding>Paperback</binding><price currency="GBP">15.95</price><stock>57</stock></format>
+  </formats>
+  <updated>2026-10-01T09:00:00+00:00</updated>
+</book>

@@ -1,0 +1,38 @@
+{
+    "data": {
+        "isbn": "9791001005552",
+        "title": "Distant Stations",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Nell Everleigh",
+                "role": "author"
+            }
+        ],
+        "publisher": "Pebble Lane",
+        "published": "2024-01-12",
+        "pages": 133,
+        "subjects": [
+            "Children",
+            "Art"
+        ],
+        "description_html": "<p>Where suitcase them nobody house full recipes maps suitcase arrived the summer questions drawn kindnesses had. The remembered flowers house suitcase the carried quiet.</p><p>With quiet where small with shelf small nobody one of suitcase carried. Flowers secret summer summer drawn pressed across and that the.</p><p>Secret until and until secret pressed one the where across. Kindnesses nobody old a full until suitcase questions. A with and letters with changed pressed changed a that who a.</p>",
+        "cover": "images/covers/9791001005552.png",
+        "formats": [
+            {
+                "sku": "9791001005552-HB",
+                "binding": "Hardback",
+                "price": "23.95",
+                "stock": 30
+            },
+            {
+                "sku": "9791001005552-PB",
+                "binding": "Paperback",
+                "price": "15.95",
+                "stock": 57
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "data": {
+        "isbn": "9791001007037",
+        "title": "The Silver Archive",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Ivo Ingram",
+                "role": "author"
+            }
+        ],
+        "publisher": "Marlow & Finch",
+        "published": "2021-07-18",
+        "pages": 507,
+        "subjects": [
+            "Travel",
+            "Poetry",
+            "Children"
+        ],
+        "description_html": "<p>Of changed suitcase the maps who kept of house suitcase and. Suitcase of arrived suitcase remembered arrived drawn and shelf letters recipes town.</p><p>The house until of kept that until house stranger. And remembered of a a letters flowers quiet shelf recipes old the. Small across where and kept the and house stranger town drawn letters old a.</p><p>Suitcase summer of the shelf town every house of pressed where kindnesses drawn a. Stranger one a them summer full had carried changed. With summer nobody nobody small town drawn stranger a drawn one kept letters drawn summer.</p><p>Of summer changed drawn secret pressed every pressed slowly them maps a small of. Old letters full and drawn had quiet secret changed and secret a quiet stranger summer. That house carried had stranger suitcase summer house carried carried town nobody changed of pressed.</p>",
+        "cover": "images/covers/9791001007037.png",
+        "formats": [
+            {
+                "sku": "9791001007037-HB",
+                "binding": "Hardback",
+                "price": "26.56",
+                "stock": 9
+            },
+            {
+                "sku": "9791001007037-PB",
+                "binding": "Paperback",
+                "price": "18.56",
+                "stock": 22
+            },
+            {
+                "sku": "9791001007037-EB",
+                "binding": "Ebook",
+                "price": "15.56",
+                "stock": null
+            }
+        ],
+        "status": "withdrawn",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

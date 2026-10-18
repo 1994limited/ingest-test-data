@@ -1,0 +1,43 @@
+{
+    "data": {
+        "isbn": "9791001004074",
+        "title": "Wild Orchards",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Nell Everleigh",
+                "role": "author"
+            },
+            {
+                "name": "Wren Bramley",
+                "role": "illustrator"
+            }
+        ],
+        "publisher": "Copperleaf",
+        "published": "2024-03-15",
+        "pages": 468,
+        "subjects": [
+            "History",
+            "Art",
+            "Biography"
+        ],
+        "description_html": "<p>Recipes small house small a a across old flowers of with. Full changed the everything who pressed flowers that kept house shelf with of kept until.</p><p>Secret every river arrived carried pressed kept secret. Recipes of the of every carried carried a until.</p>",
+        "cover": "images/covers/9791001004074.png",
+        "formats": [
+            {
+                "sku": "9791001004074-HB",
+                "binding": "Hardback",
+                "price": "16.93",
+                "stock": 25
+            },
+            {
+                "sku": "9791001004074-PB",
+                "binding": "Paperback",
+                "price": "8.93",
+                "stock": 48
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

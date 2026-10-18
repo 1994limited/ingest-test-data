@@ -1,0 +1,38 @@
+{
+    "data": {
+        "isbn": "9791001005187",
+        "title": "A Compass for Fern",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Nell Rookwood",
+                "role": "author"
+            }
+        ],
+        "publisher": "Hollowtree Press",
+        "published": "2020-11-02",
+        "pages": 349,
+        "subjects": [
+            "Children",
+            "Biography"
+        ],
+        "description_html": "<p>And shelf everything nobody them quiet arrived remembered small questions old every. Kept everything pressed across quiet nobody secret with remembered maps a summer.</p><p>House flowers changed changed that that of of drawn old. Kindnesses of until had summer across everything slowly secret the summer that flowers full full carried. And them slowly shelf secret everything who of letters carried. Kept stranger who drawn of where where a river maps who a with that changed.</p>",
+        "cover": "images/covers/9791001005187.png",
+        "formats": [
+            {
+                "sku": "9791001005187-HB",
+                "binding": "Hardback",
+                "price": "28.01",
+                "stock": 25
+            },
+            {
+                "sku": "9791001005187-PB",
+                "binding": "Paperback",
+                "price": "20.01",
+                "stock": 85
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

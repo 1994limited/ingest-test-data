@@ -1,0 +1,45 @@
+{
+    "data": {
+        "isbn": "9791001012215",
+        "title": "The Silver Atlas",
+        "subtitle": "One old town everything",
+        "contributors": [
+            {
+                "name": "Milo Everleigh",
+                "role": "author"
+            }
+        ],
+        "publisher": "Northgate Books",
+        "published": "2024-05-16",
+        "pages": 209,
+        "subjects": [
+            "Nature",
+            "Art",
+            "Biography"
+        ],
+        "description_html": "<p>Full remembered remembered letters full across maps summer letters them kept summer stranger. Every pressed a secret shelf and recipes and everything them until.</p><p>River until and where quiet the with everything quiet house. Small one where river where questions a where a one a.</p>",
+        "cover": "images/covers/9791001012215.png",
+        "formats": [
+            {
+                "sku": "9791001012215-HB",
+                "binding": "Hardback",
+                "price": "16.02",
+                "stock": 26
+            },
+            {
+                "sku": "9791001012215-PB",
+                "binding": "Paperback",
+                "price": "8.02",
+                "stock": 65
+            },
+            {
+                "sku": "9791001012215-EB",
+                "binding": "Ebook",
+                "price": "5.02",
+                "stock": null
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

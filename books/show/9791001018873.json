@@ -1,0 +1,38 @@
+{
+    "data": {
+        "isbn": "9791001018873",
+        "title": "A Library for Tess",
+        "subtitle": "That until summer one",
+        "contributors": [
+            {
+                "name": "Fern Calloway",
+                "role": "author"
+            }
+        ],
+        "publisher": "Pebble Lane",
+        "published": "2024-08-26",
+        "pages": 272,
+        "subjects": [
+            "Nature",
+            "Poetry"
+        ],
+        "description_html": "<p>Full nobody every them until kindnesses of slowly of. Small old remembered a pressed with arrived that shelf changed secret kept where maps suitcase.</p><p>Until everything river a where stranger of and. A carried across maps arrived every pressed drawn of drawn kept suitcase every kept.</p><p>And kindnesses remembered with house them full shelf nobody shelf one letters house of a and. Recipes everything recipes and carried full drawn with.</p>",
+        "cover": "images/covers/9791001018873.png",
+        "formats": [
+            {
+                "sku": "9791001018873-HB",
+                "binding": "Hardback",
+                "price": "18.89",
+                "stock": 25
+            },
+            {
+                "sku": "9791001018873-PB",
+                "binding": "Paperback",
+                "price": "10.89",
+                "stock": 4
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

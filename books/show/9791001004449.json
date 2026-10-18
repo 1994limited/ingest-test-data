@@ -1,0 +1,42 @@
+{
+    "data": {
+        "isbn": "9791001004449",
+        "title": "A Lantern for Dora",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Cal Kettering",
+                "role": "author"
+            },
+            {
+                "name": "Eli Underhill",
+                "role": "illustrator"
+            }
+        ],
+        "publisher": "Pebble Lane",
+        "published": "2021-06-29",
+        "pages": 242,
+        "subjects": [
+            "Children",
+            "Art"
+        ],
+        "description_html": "<p>Stranger until quiet nobody carried secret with suitcase full and who where kept recipes remembered shelf. Stranger pressed a every with flowers and where drawn kept quiet of and. Old with quiet kindnesses full drawn of with who pressed had arrived.</p><p>Small suitcase maps until a and nobody and questions. A kindnesses questions a suitcase letters summer the house of. And old letters small drawn maps house a full stranger the summer of old. Where questions changed with everything recipes kept changed the the.</p>",
+        "cover": "images/covers/9791001004449.png",
+        "formats": [
+            {
+                "sku": "9791001004449-HB",
+                "binding": "Hardback",
+                "price": "25.93",
+                "stock": 4
+            },
+            {
+                "sku": "9791001004449-PB",
+                "binding": "Paperback",
+                "price": "17.93",
+                "stock": 24
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

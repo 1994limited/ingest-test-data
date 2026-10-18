@@ -1,0 +1,18 @@
+{
+    "id": "evt_1666824b8da9",
+    "name": "An evening with Ivo Pennywhistle",
+    "summary": "With across changed nobody pressed flowers remembered full slowly who where them one summer.",
+    "starts_at": "2026-12-19T17:30:00+00:00",
+    "ends_at": "2026-12-19T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v2",
+        "name": "The Corn Exchange",
+        "city": "Brighton"
+    },
+    "tickets": {
+        "price": "10.00",
+        "available": 30
+    },
+    "status": "on_sale"
+}

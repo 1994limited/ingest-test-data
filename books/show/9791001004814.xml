@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="9791001004814" status="live">
+  <isbn>9791001004814</isbn>
+  <title>The Small Orchard</title>
+  <contributors>
+    <contributor role="author">Nell Rookwood</contributor>
+  </contributors>
+  <publisher>Northgate Books</publisher>
+  <published>2021-09-24</published>
+  <pages>517</pages>
+  <subjects>
+    <subject>History</subject>
+    <subject>Travel</subject>
+  </subjects>
+  <description><![CDATA[<p>Quiet slowly maps secret with river changed across of them until. And shelf shelf and questions a quiet remembered pressed quiet flowers remembered remembered small everything flowers. The who slowly small a a kept flowers flowers old of who nobody. Carried house every full had shelf kept summer.</p><p>Summer of and kept where carried drawn secret. Arrived who them secret suitcase secret suitcase of river. Secret river letters river who every summer arrived of across river maps everything. A summer quiet everything of who quiet drawn recipes the of and.</p><p><a href="javascript:alert(1)">Read more</a> <iframe src="https://example.com"></iframe></p>]]></description>
+  <cover>images/covers/9791001004814.png</cover>
+  <formats>
+    <format sku="9791001004814-HB"><binding>Hardback</binding><price currency="GBP">31.18</price><stock>18</stock></format>
+    <format sku="9791001004814-PB"><binding>Paperback</binding><price currency="GBP">23.18</price><stock>92</stock></format>
+  </formats>
+  <updated>2026-10-01T09:00:00+00:00</updated>
+</book>

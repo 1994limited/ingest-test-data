@@ -1,0 +1,43 @@
+{
+    "data": {
+        "isbn": "9791001008140",
+        "title": "The Paper Kingdom",
+        "subtitle": null,
+        "contributors": [
+            {
+                "name": "Otto Quill",
+                "role": "author"
+            }
+        ],
+        "publisher": "Copperleaf",
+        "published": "2018-05-09",
+        "pages": 183,
+        "subjects": [
+            "Biography"
+        ],
+        "description_html": "<p>With and shelf town had flowers arrived and quiet arrived kept shelf a had across. Carried one town kindnesses a recipes one suitcase small questions.</p><p>Recipes a of quiet letters a kept and and and a questions stranger changed drawn a. Letters old full secret pressed summer kept with flowers with changed secret carried. A of slowly until river where arrived that a shelf a river everything secret slowly the. Flowers arrived that nobody until had with the house nobody nobody.</p>",
+        "cover": "images/covers/9791001008140.png",
+        "formats": [
+            {
+                "sku": "9791001008140-HB",
+                "binding": "Hardback",
+                "price": "24.02",
+                "stock": 2
+            },
+            {
+                "sku": "9791001008140-PB",
+                "binding": "Paperback",
+                "price": "16.02",
+                "stock": 120
+            },
+            {
+                "sku": "9791001008140-EB",
+                "binding": "Ebook",
+                "price": "13.02",
+                "stock": null
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

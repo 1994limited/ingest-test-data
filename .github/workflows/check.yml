@@ -1,0 +1,23 @@
+name: Check generated files
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+          extensions: gd, mbstring, dom
+          coverage: none
+      - name: Regenerate
+        run: php generator/generate.php
+      # PNG bytes vary between GD/zlib builds, so images are left out.
+      - name: Committed files match the generator
+        run: |
+          git diff --exit-code --stat -- . ':!images'
+          test -z "$(git status --porcelain -- . ':!images')"

@@ -1,0 +1,18 @@
+{
+    "id": "evt_d774cfe50c46",
+    "name": "An evening with June Ashdown",
+    "summary": "That and the suitcase shelf carried and summer recipes changed everything across slowly one.",
+    "starts_at": "2026-12-28T17:30:00+00:00",
+    "ends_at": "2026-12-28T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v1",
+        "name": "Dog-ear Books, Lewes",
+        "city": "Lewes"
+    },
+    "tickets": {
+        "price": "10.00",
+        "available": 16
+    },
+    "status": "on_sale"
+}

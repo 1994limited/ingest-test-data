@@ -1,0 +1,37 @@
+{
+    "data": {
+        "isbn": "9791001021460",
+        "title": "Folded Gardens",
+        "subtitle": "Flowers and of drawn",
+        "contributors": [
+            {
+                "name": "Hattie Stanhope",
+                "role": "author"
+            }
+        ],
+        "publisher": "Northgate Books",
+        "published": "2024-11-15",
+        "pages": 139,
+        "subjects": [
+            "Fiction"
+        ],
+        "description_html": "<p>Quiet shelf every secret who questions stranger every slowly kindnesses questions a shelf a with suitcase. Town maps drawn summer a pressed a changed house recipes nobody every.</p><p>Remembered arrived letters town maps remembered and arrived letters and every across every one who questions. Flowers arrived quiet who had with with a. Shelf until who kindnesses a of remembered questions. Until changed kept kindnesses every a every flowers a letters old letters a the.</p>",
+        "cover": "images/covers/9791001021460.png",
+        "formats": [
+            {
+                "sku": "9791001021460-HB",
+                "binding": "Hardback",
+                "price": "25.17",
+                "stock": 1
+            },
+            {
+                "sku": "9791001021460-PB",
+                "binding": "Paperback",
+                "price": "17.17",
+                "stock": 34
+            }
+        ],
+        "status": "live",
+        "updated_at": "2026-10-01T09:00:00+00:00"
+    }
+}

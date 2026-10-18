@@ -1,0 +1,18 @@
+{
+    "id": "evt_f04b956f2049",
+    "name": "An evening with June Ashdown",
+    "summary": "Small drawn everything slowly the recipes remembered that flowers house kept a remembered a.",
+    "starts_at": "2026-10-11T17:30:00+00:00",
+    "ends_at": "2026-10-11T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v1",
+        "name": "Dog-ear Books, Lewes",
+        "city": "Lewes"
+    },
+    "tickets": {
+        "price": "5.00",
+        "available": 78
+    },
+    "status": "on_sale"
+}

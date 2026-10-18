@@ -1,0 +1,18 @@
+{
+    "id": "evt_316817219929",
+    "name": "An evening with Tess Fairweather",
+    "summary": "A across and everything a kindnesses the carried stranger them recipes small flowers questions.",
+    "starts_at": "2026-11-25T17:30:00+00:00",
+    "ends_at": "2026-11-25T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v1",
+        "name": "Dog-ear Books, Lewes",
+        "city": "Lewes"
+    },
+    "tickets": {
+        "price": "10.00",
+        "available": 33
+    },
+    "status": "on_sale"
+}

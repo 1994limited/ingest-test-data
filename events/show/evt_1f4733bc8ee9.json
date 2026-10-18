@@ -1,0 +1,18 @@
+{
+    "id": "evt_1f4733bc8ee9",
+    "name": "An evening with Fern Quill",
+    "summary": "Stranger pressed old recipes river them and river everything questions the with of nobody.",
+    "starts_at": "2026-12-07T17:30:00+00:00",
+    "ends_at": "2026-12-07T19:00:00+00:00",
+    "timezone": "Europe/London",
+    "venue": {
+        "id": "v1",
+        "name": "Dog-ear Books, Lewes",
+        "city": "Lewes"
+    },
+    "tickets": {
+        "price": "10.00",
+        "available": 3
+    },
+    "status": "on_sale"
+}

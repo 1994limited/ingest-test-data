@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book id="9791001007037" status="withdrawn">
+  <isbn>9791001007037</isbn>
+  <title>The Silver Archive</title>
+  <contributors>
+    <contributor role="author">Ivo Ingram</contributor>
+  </contributors>
+  <publisher>Marlow &amp; Finch</publisher>
+  <published>2021-07-18</published>
+  <pages>507</pages>
+  <subjects>
+    <subject>Travel</subject>
+    <subject>Poetry</subject>
+    <subject>Children</subject>
+  </subjects>
+  <description><![CDATA[<p>Of changed suitcase the maps who kept of house suitcase and. Suitcase of arrived suitcase remembered arrived drawn and shelf letters recipes town.</p><p>The house until of kept that until house stranger. And remembered of a a letters flowers quiet shelf recipes old the. Small across where and kept the and house stranger town drawn letters old a.</p><p>Suitcase summer of the shelf town every house of pressed where kindnesses drawn a. Stranger one a them summer full had carried changed. With summer nobody nobody small town drawn stranger a drawn one kept letters drawn summer.</p><p>Of summer changed drawn secret pressed every pressed slowly them maps a small of. Old letters full and drawn had quiet secret changed and secret a quiet stranger summer. That house carried had stranger suitcase summer house carried carried town nobody changed of pressed.</p>]]></description>
+  <cover>images/covers/9791001007037.png</cover>
+  <formats>
+    <format sku="9791001007037-HB"><binding>Hardback</binding><price currency="GBP">26.56</price><stock>9</stock></format>
+    <format sku="9791001007037-PB"><binding>Paperback</binding><price currency="GBP">18.56</price><stock>22</stock></format>
+    <format sku="9791001007037-EB"><binding>Ebook</binding><price currency="GBP">15.56</price></format>
+  </formats>
+  <updated>2026-10-01T09:00:00+00:00</updated>
+</book>
